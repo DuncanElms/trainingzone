@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+nav{
+	display: block;
+	text-align: center;
+}
+
+h1 {
+	color: #FF0004;
+	text-align: center;
+	background-color: #E0FF00;
+}
+p {
+	text-align: center;
+}
+body {
+	background-color: #66C7C8;
+	text-align: center;
+}
